@@ -1,4 +1,4 @@
-# Climate change dataT
+# Climate change data
 
 This is a react app which loads cliamte change data from https://my.api.mockaroo.com/co2.json?key=8eb9e6f0.
 
